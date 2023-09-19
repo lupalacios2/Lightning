@@ -43,5 +43,5 @@ void mousePressed() {
   endY = 0;
   endX = (int)(Math.random() * 200) + 50;
   
-  clear();
+  background(0, 0, 0);
 }
